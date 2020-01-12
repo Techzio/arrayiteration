@@ -1,2 +1,0 @@
-# arrayiteration
-Created with CodeSandbox
